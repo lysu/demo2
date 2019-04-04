@@ -13,7 +13,6 @@ public class Test {
 
 	@PostConstruct
 	public void test() {
-
 		User u = new User();
 		u.setId(3L);
 		u.setName("u1");
